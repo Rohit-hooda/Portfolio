@@ -42,7 +42,7 @@ function SocialLinks() {
                 Resume <BsFillPersonLinesFill size={30} />
                 </>
             ),
-            href:"https://drive.google.com/file/d/1oHZd_78Ck7b20nhic_JnkyE70nLEI-bD/view?usp=sharing",
+            href:"https://drive.google.com/file/d/1bRIRebzWLknfsWiFsl0YtIY6KK4WyJ8-/view?usp=sharing",
             style: 'rounded-tr-md',
             download:true,
         },
