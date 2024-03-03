@@ -30,8 +30,8 @@ function Portfolio() {
         {
             id: 4,
             src: cloudinfra,
-            url: "https://github.com/Rohit-hooda/aws-infra",
-            codeurl: "https://github.com/Rohit-hooda/aws-infra"
+            url: "https://github.com/Rohit-hooda/AWS-IaaC",
+            codeurl: "https://github.com/Rohit-hooda/AWS-IaaC"
         },
     ]
 
